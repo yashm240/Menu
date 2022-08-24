@@ -1,0 +1,15 @@
+{
+	"category": [{
+			"name": "Books",
+			"url": "/books"
+		},
+		{
+			"name": "Shoes",
+			"url": "/shoes"
+		},
+		{
+			"name": "Laptop",
+			"url": "/laptop"
+		}
+	]
+}
